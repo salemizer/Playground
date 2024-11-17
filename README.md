@@ -1,4 +1,4 @@
 # Playground
- Playing around with tech&tools- random projects
+ Playing around with various tech&tools- random projects
 
- - BDDProject: to test Cucumber & behavioral driven testing
+ - BDDProject: to try out Cucumber & behavioral driven testing
